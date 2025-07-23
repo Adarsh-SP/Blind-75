@@ -56,13 +56,13 @@ This repository documents my progress, notes, and clean solutions to the most im
 <details>
 <summary><strong>🔢 Arrays & Hashing (12)</strong></summary>
 
-* [ ] [Two Sum](https://leetcode.com/problems/two-sum/) – [Solution](./Arrays/two-sum.js)
-* [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) – [Solution](./Arrays/valid-anagram.js)
+* [x] [Two Sum](https://leetcode.com/problems/two-sum/) – [Solution](./Arrays/two-sum.js)
+* [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) – [Solution](./Arrays/valid-anagram.js)
 * [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) – [Solution](./Arrays/group-anagrams.js)
 * [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) – [Solution](./Arrays/top-k-frequent.js)
 * [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) – [Solution](./Arrays/product-except-self.js)
 * [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) – [Solution](./Arrays/maximum-subarray.js)
-* [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) – [Solution](./Arrays/contains-duplicate.js)
+* [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) – [Solution](./Arrays/contains-duplicate.js)
 * [ ] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) – [Solution](./Arrays/encode-decode.js)
 * [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) – [Solution](./Arrays/longest-consecutive.js)
 * [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/) – [Solution](./Arrays/insert-interval.js)
