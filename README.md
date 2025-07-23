@@ -32,7 +32,7 @@ This repository documents my progress, notes, and clean solutions to the most im
 
 | Category               | ✅ Completed / Total |
 | ---------------------- | ------------------- |
-| Arrays & Hashing       | 0 / 12              |
+| Arrays & Hashing       | 3 / 12              |
 | Two Pointers           | 0 / 6               |
 | Sliding Window         | 0 / 4               |
 | Stack                  | 0 / 5               |
