@@ -55,7 +55,7 @@ This repository documents my progress, notes, and clean solutions to the most im
 
 
 <details>
-<summary><strong>🔢 Arrays & Hashing (12)</strong></summary>
+<summary><strong> Arrays & Hashing (12)</strong></summary>
 
 * [x] [Two Sum](https://leetcode.com/problems/two-sum/) – [Solution](./Arrays/two-sum.js)
 * [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) – [Solution](./Arrays/valid-anagram.js)
